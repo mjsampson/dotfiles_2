@@ -178,7 +178,3 @@ etc/clusto*.conf
 
 
 
-# nixos / homemanager 
-#
-!.config/nix-darwin
-!.config/nix-darwin/*
