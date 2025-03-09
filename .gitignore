@@ -175,3 +175,10 @@ etc/clusto*.conf
 !.config/1Password/*
 !.config/1Password/ssh/
 !.config/1Password/ssh/*
+
+
+
+# nixos / homemanager 
+#
+!.config/nix-darwin
+!.config/nix-darwin/*
