@@ -36,6 +36,7 @@
 # The gitignore of this repository itself (!)
 !.gitignore
 !.config/.gitignore
+!.config/nvim/*
 # My global Git excludes file (acts as a global .gitignore)
 !.gitexcludes
 
